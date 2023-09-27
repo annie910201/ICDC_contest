@@ -1,0 +1,47 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\modeltech64_10.1c\examples\HW3
+vJAM
+Z1 IBPDWbhY]iA`aENKc]5MVk3
+Z2 V_Vn92]_1R0PmF?5GZc0l>0
+Z3 dC:\modeltech64_10.1c\examples\2022
+Z4 w1677758954
+Z5 8C:/modeltech64_10.1c/examples/2022/JAM.v
+Z6 FC:/modeltech64_10.1c/examples/2022/JAM.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -reportprogress|300|-work|work|C:/modeltech64_10.1c/examples/2022/JAM.v|
+Z9 o-work work -O0
+Z10 n@j@a@m
+!i10b 1
+Z11 !s100 FU1El=]KlmW63CZ=QE16K2
+!s85 0
+Z12 !s108 1677758959.822000
+Z13 !s107 C:/modeltech64_10.1c/examples/2022/JAM.v|
+!s101 -O0
+vtestfixture
+Z14 DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+!i10b 1
+Z15 !s100 CGnh6kC4SX[a1DJDCb=Vm1
+Z16 IS1hkCZl_h0SQd>G^MDbIT2
+Z17 VKBIIT=eCh7cJh[^JXBGX00
+Z18 !s105 tb_sv_unit
+S1
+R3
+Z19 w1677744235
+Z20 8C:/modeltech64_10.1c/examples/2022/tb.sv
+Z21 FC:/modeltech64_10.1c/examples/2022/tb.sv
+L0 18
+R7
+r1
+!s85 0
+31
+!s108 1677758959.874000
+!s107 C:/modeltech64_10.1c/examples/2022/tb.sv|
+Z22 !s90 -reportprogress|300|-work|work|-sv|C:/modeltech64_10.1c/examples/2022/tb.sv|
+!s101 -O0
+Z23 o-work work -sv -O0

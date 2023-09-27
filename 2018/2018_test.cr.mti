@@ -1,0 +1,10 @@
+C:/modeltech64_10.1c/examples/2018/testfixture.v {1 {vlog -work work -novopt -stats=none {C:\modeltech64_10.1c\examples\2018\testfixture.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module test
+-- Compiling module IROM
+-- Compiling module IRAM
+
+Top level modules:
+	test
+
+} {} {}}

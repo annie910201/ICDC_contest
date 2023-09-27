@@ -1,0 +1,84 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\modeltech64_10.1c\examples\2019_ans
+vDT
+Z1 IO@XnoFaBlGf8ZRYAYoW2n3
+Z2 V@l:XP?XZhPM1<Q^Fj^P9L3
+Z3 dC:\modeltech64_10.1c\examples\2017
+Z4 w1675708767
+Z5 8C:/modeltech64_10.1c/examples/2017/DT.v
+Z6 FC:/modeltech64_10.1c/examples/2017/DT.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -reportprogress|300|-work|work|C:/modeltech64_10.1c/examples/2017/DT.v|
+Z9 o-work work -O0
+n@d@t
+!i10b 1
+Z10 !s100 cTcVjA8OcLLc;Xok;:Q;d0
+!s85 0
+Z11 !s108 1675708779.833000
+Z12 !s107 C:/modeltech64_10.1c/examples/2017/DT.v|
+!s101 -O0
+vres_RAM
+!i10b 1
+Z13 !s100 eS6YF?O;cn:EXETA?cS>82
+Z14 IkH<JR>^BALhC^X@cb]LVZ3
+Z15 VaB]kk<Pbk==z^0m=`z`[>0
+R3
+Z16 w1675676619
+Z17 8C:/modeltech64_10.1c/examples/2017/testfixture.v
+Z18 FC:/modeltech64_10.1c/examples/2017/testfixture.v
+Z19 L0 220
+R7
+r1
+!s85 0
+31
+Z20 !s108 1675708779.884000
+Z21 !s107 C:/modeltech64_10.1c/examples/2017/testfixture.v|
+Z22 !s90 -reportprogress|300|-work|work|C:/modeltech64_10.1c/examples/2017/testfixture.v|
+!s101 -O0
+R9
+Z23 nres_@r@a@m
+vsti_ROM
+!i10b 1
+Z24 !s100 ]bhI?F``AYleA<VmbBZkG2
+Z25 Ih88>9@6WzkL9>0Q`hh]Kn0
+Z26 VM6_@zEzh3H[KNzlKPTfiM2
+R3
+R16
+R17
+R18
+Z27 L0 196
+R7
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R9
+Z28 nsti_@r@o@m
+vtestfixture
+!i10b 1
+Z29 !s100 :cdUSfZm?ZPhT>f;mgZii3
+Z30 InS77;RcY_650Tkio`dVn]1
+Z31 V<d7^G6dXC8e=mX:l9bUfB0
+R3
+R16
+R17
+R18
+L0 16
+R7
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R9

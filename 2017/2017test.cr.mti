@@ -1,0 +1,10 @@
+C:/modeltech64_10.1c/examples/2017/testfixture.v {1 {vlog -work work C:/modeltech64_10.1c/examples/2017/testfixture.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module testfixture
+-- Compiling module sti_ROM
+-- Compiling module res_RAM
+
+Top level modules:
+	testfixture
+
+} {} {}}

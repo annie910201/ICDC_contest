@@ -1,0 +1,63 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.1
+vLBP
+Z1 Im0Po8<M_hI@2gV8F9]hUf2
+Z2 Vg;QSnLc00a?h=3UV90Whg3
+Z3 dC:\modeltech64_10.1c\examples\2016
+Z4 w1676038929
+Z5 8C:\modeltech64_10.1c\examples\2016\LBP.v
+Z6 FC:\modeltech64_10.1c\examples\2016\LBP.v
+L0 2
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -reportprogress|300|-work|work|C:\modeltech64_10.1c\examples\2016\LBP.v|
+Z9 o-work work -O0
+Z10 n@l@b@p
+!i10b 1
+Z11 !s100 hQ@7I_gLzF_DW_MT:jjJ>0
+!s85 0
+Z12 !s108 1676038935.986000
+Z13 !s107 C:\modeltech64_10.1c\examples\2016\LBP.v|
+!s101 -O0
+vlbp_mem
+!i10b 1
+Z14 !s100 ej@:BzQQVfC;CMeKG8FTj2
+Z15 IWUUSTZ9Z^LAf5llNX5<=23
+Z16 V4^>^19e9minGgac6Q`VUB3
+R3
+Z17 w1676038281
+Z18 8C:\modeltech64_10.1c\examples\2016\testfixture.v
+Z19 FC:\modeltech64_10.1c\examples\2016\testfixture.v
+Z20 L0 134
+R7
+r1
+!s85 0
+31
+Z21 !s108 1676038936.036000
+Z22 !s107 C:\modeltech64_10.1c\examples\2016\testfixture.v|
+Z23 !s90 -reportprogress|300|-work|work|C:\modeltech64_10.1c\examples\2016\testfixture.v|
+!s101 -O0
+R9
+vtestfixture
+!i10b 1
+Z24 !s100 NBdo_fbUneCe>L0[eBH;_0
+Z25 II?IQ4YZS>i<Hi:WfhM?693
+Z26 VA47mW?eGS^dWC?fbCnia03
+R3
+R17
+R18
+R19
+L0 10
+R7
+r1
+!s85 0
+31
+R21
+R22
+R23
+!s101 -O0
+R9

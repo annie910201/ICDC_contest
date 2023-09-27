@@ -1,0 +1,45 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\examples\2015
+vSET
+Z1 I[<:Bmn;M2eNNfX@lY`7EB0
+Z2 VaY8LoA:CJ2JLJR;[F5L?I3
+Z3 dC:\modeltech64_10.1c\examples\2015
+Z4 w1676557795
+Z5 8C:/modeltech64_10.1c/examples/2015/SET.v
+Z6 FC:/modeltech64_10.1c/examples/2015/SET.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -reportprogress|300|-work|work|C:/modeltech64_10.1c/examples/2015/SET.v|
+Z9 o-work work -O0
+Z10 n@s@e@t
+Z11 !s100 0Z25S[e;fLcWH=;TY@z>91
+Z12 !s108 1676557874.488000
+Z13 !s107 C:/modeltech64_10.1c/examples/2015/SET.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtestfixture1
+!i10b 1
+Z14 !s100 IQC;iRgc]>az:OSL2HmEm2
+Z15 I[ne_z`@cc[;n^?9:acG=02
+Z16 VWP0=oXMOeYWB]IV3[4WoU2
+R3
+Z17 w1676555155
+Z18 8testfixture.v
+Z19 Ftestfixture.v
+L0 7
+R7
+r1
+!s85 0
+31
+!s108 1676557887.066000
+!s107 testfixture.v|
+Z20 !s90 -reportprogress|300|testfixture.v|+define+MD3|
+!s101 -O0
+o-O0
+Z21 !s92 +define+MD3 -O0

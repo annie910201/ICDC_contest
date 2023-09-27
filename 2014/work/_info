@@ -1,0 +1,44 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\modeltech64_10.1c\examples\IC_hw2
+vSTI_DAC
+Z1 Ijf1[i2><W6dKgUD5=;Wie2
+Z2 V4BCP[Cib8J;;FYiT@oz7K2
+Z3 dC:\modeltech64_10.1c\examples\2014
+Z4 w1679754679
+Z5 8C:/modeltech64_10.1c/examples/2014/STI_DAC.v
+Z6 FC:/modeltech64_10.1c/examples/2014/STI_DAC.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -reportprogress|300|-work|work|C:/modeltech64_10.1c/examples/2014/STI_DAC.v|
+Z9 o-work work -O0
+Z10 n@s@t@i_@d@a@c
+!i10b 1
+Z11 !s100 m6cV_WDJ8ImO];8d3nLRD2
+!s85 0
+Z12 !s108 1679754709.284000
+Z13 !s107 C:/modeltech64_10.1c/examples/2014/STI_DAC.v|
+!s101 -O0
+vtestfixture
+!i10b 1
+Z14 !s100 @[?;Cb;Ec5o=R`YecQdHV0
+Z15 IU06dJRlE4]k><Kj7KEnLa1
+Z16 VKBIIT=eCh7cJh[^JXBGX00
+R3
+Z17 w1679746692
+Z18 8C:/modeltech64_10.1c/examples/2014/testfixture.v
+Z19 FC:/modeltech64_10.1c/examples/2014/testfixture.v
+L0 3
+R7
+r1
+!s85 0
+31
+!s108 1679754709.336000
+!s107 C:/modeltech64_10.1c/examples/2014/testfixture.v|
+Z20 !s90 -reportprogress|300|-work|work|C:/modeltech64_10.1c/examples/2014/testfixture.v|
+!s101 -O0
+R9

@@ -1,0 +1,49 @@
+m255
+K3
+13
+cModel Technology
+dC:\modeltech64_10.1c\examples
+T_opt
+VLQH4MJEVXb64b@<:=Va`N1
+04 2 4 work tb fast 0
+=1-0897989d0e51-62175dd3-d6-2d50
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OL;O;10.1c;51
+vLCD_CTRL
+I?A_>?S@6K`98E=8=`[;g:0
+VB4TiS?<0<<PF?YAFGGC;Y3
+Z0 dC:\modeltech64_10.1c\examples\2008
+w1645648168
+8C:/modeltech64_10.1c/examples/2008/LCD_CTRL.v
+FC:/modeltech64_10.1c/examples/2008/LCD_CTRL.v
+L0 1
+Z1 OL;L;10.1c;51
+r1
+31
+Z2 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+n@l@c@d_@c@t@r@l
+!s100 2XWocmXA23DF`OH0hf3`o3
+!s108 1645648314.888000
+!s107 C:/modeltech64_10.1c/examples/2008/LCD_CTRL.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/modeltech64_10.1c/examples/2008/LCD_CTRL.v|
+!i10b 1
+!s85 0
+vtb
+Ifc2zRJQofQKD_MaabM5jV2
+Vb:7nf2nD;XP5a7eN[NeYa0
+Z3 dC:\modeltech64_10.1c\examples\2008
+w1645647908
+8C:/modeltech64_10.1c/examples/2008/tb.v
+FC:/modeltech64_10.1c/examples/2008/tb.v
+L0 8
+R1
+r1
+31
+R2
+!i10b 1
+!s100 cUl]_2n[;ka54WGF:0RZe1
+!s85 0
+!s108 1645648314.944000
+!s107 C:/modeltech64_10.1c/examples/2008/tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/modeltech64_10.1c/examples/2008/tb.v|

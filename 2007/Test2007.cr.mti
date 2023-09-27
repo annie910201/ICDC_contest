@@ -1,0 +1,29 @@
+C:/modeltech64_10.1c/examples/2007/testfixture.v {1 {vlog -work work -vopt C:/modeltech64_10.1c/examples/2007/testfixture.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module test
+
+Top level modules:
+	test
+
+} {} {}} C:/modeltech64_10.1c/examples/2007/lcd_ctrl.v {1 {vlog -work work -vopt C:/modeltech64_10.1c/examples/2007/lcd_ctrl.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module lcd_ctrl
+
+Top level modules:
+	lcd_ctrl
+
+} {} {}} C:/modeltech64_10.1c/examples/2007/contest_file/lcd_ctrl.v {1 {vlog -work work -vopt C:/modeltech64_10.1c/examples/2007/contest_file/lcd_ctrl.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module lcd_ctrl
+
+Top level modules:
+	lcd_ctrl
+
+} {} {}} C:/modeltech64_10.1c/examples/2007/contest_file/testfixture.v {1 {vlog -work work -vopt C:/modeltech64_10.1c/examples/2007/contest_file/testfixture.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module test
+
+Top level modules:
+	test
+
+} {} {}}

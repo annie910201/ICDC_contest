@@ -1,0 +1,46 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\modeltech64_10.1c\examples\2016
+vgeofence
+Z1 !s100 Ho`?UN3Q>;YG_Z`7;@UXm2
+Z2 I8Q5ChbTa43mC?;UY[>Kcf0
+Z3 V:S^4n8X<@KQH>44>N=UcE2
+Z4 dC:\modeltech64_10.1c\examples\2021
+Z5 w1676450712
+Z6 8C:/modeltech64_10.1c/examples/2021/geofence.v
+Z7 FC:/modeltech64_10.1c/examples/2021/geofence.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/modeltech64_10.1c/examples/2021/geofence.v|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1676450798.447000
+Z12 !s107 C:/modeltech64_10.1c/examples/2021/geofence.v|
+!s101 -O0
+vtestfixture
+Z13 DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+!i10b 1
+Z14 !s100 LLoCXWNj=H74SM8LXAEfi2
+Z15 IEfAfl29H42]FIoJYV<bof0
+Z16 VKBIIT=eCh7cJh[^JXBGX00
+Z17 !s105 tb_sv_unit
+S1
+R4
+Z18 w1676389718
+Z19 8C:/modeltech64_10.1c/examples/2021/tb.sv
+Z20 FC:/modeltech64_10.1c/examples/2021/tb.sv
+L0 7
+R8
+r1
+!s85 0
+31
+!s108 1676450798.494000
+!s107 C:/modeltech64_10.1c/examples/2021/tb.sv|
+Z21 !s90 -reportprogress|300|-work|work|-sv|C:/modeltech64_10.1c/examples/2021/tb.sv|
+!s101 -O0
+Z22 o-work work -sv -O0
